@@ -36,7 +36,11 @@ const About = () => {
           </div>
 
           <p>
-          I am a highly driven and dedicated individual pursuing Master of Science in Information Systems at Northeastern University. With over a year and a half of experience as a software developer and business analyst, I have honed my skills in .NET technology, SQL, Web API, PowerBI, and Remedy. I am also passionate about JavaScript and continuously seeking to expand my knowledge in this area. My strong communication skills and diligent approach to work have allowed me to effectively collaborate with cross-functional teams and deliver meaningful solutions. Through my work experience, I have learned the ins and outs of how organizations operate and am confident in my ability to drive innovation and contribute to their success.</p>
+          I'm a dynamic software engineer with a passion for innovation and collaboration. My journey began at Zensar Technologies, where I excelled in front-end development, specializing in JavaScript, React, and Node.js. During my tenure, I played a pivotal role in the development of a next-gen e-commerce platform, resulting in a remarkable 32% increase in user engagement and heightened customer satisfaction.
+I thrive on challenges and have a proven track record of leading cross-functional teams, fostering a collaborative environment, and adapting swiftly to emerging technologies. My dedication to excellence and my deep expertise in JavaScript, React, and Node.js make me a valuable asset to any team.
+Currently pursuing my MS in Information Systems at Northeastern University, I bring a wealth of experience and a commitment to continuous growth. 
+<br></br> Let's connect and discuss how my skills can contribute to your organization's success
+</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a5fe7dcb.css",
-    "main.js": "/portfolio/static/js/main.9c1ac980.js",
+    "main.js": "/portfolio/static/js/main.db0128fd.js",
     "static/media/Boston.jpg": "/portfolio/static/media/Boston.2e0c14e81ded5e2cc6f5.jpg",
-    "static/media/PARAGI 2.JPG": "/portfolio/static/media/PARAGI 2.c9ac17ec13ab5594eb5a.JPG",
     "static/media/me1.jpg": "/portfolio/static/media/me1.4b68d515e17e14423770.jpg",
     "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/PARAG_KHANKARI_RESUME.pdf": "/portfolio/static/media/PARAG_KHANKARI_RESUME.03c25ab9458b5c36dc66.pdf",
@@ -12,10 +11,10 @@
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio/index.html",
     "main.a5fe7dcb.css.map": "/portfolio/static/css/main.a5fe7dcb.css.map",
-    "main.9c1ac980.js.map": "/portfolio/static/js/main.9c1ac980.js.map"
+    "main.db0128fd.js.map": "/portfolio/static/js/main.db0128fd.js.map"
   },
   "entrypoints": [
     "static/css/main.a5fe7dcb.css",
-    "static/js/main.9c1ac980.js"
+    "static/js/main.db0128fd.js"
   ]
 }

@@ -33,9 +33,9 @@ const Contact = () => {
           </article>
           <article className="contact__option">
             <AiFillInstagram className='contact__option-icon'/>
-            <h4>Instagram</h4>
+            <h4>Github</h4>
             <h5>Parag Khankari</h5>
-            <a href="https://www.instagram.com/btwitsparag/" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/parag-khankari-5bb458200/" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>

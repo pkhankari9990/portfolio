@@ -38,9 +38,8 @@ const About = () => {
           </div>
 
           <p>
-          I'm a dynamic software engineer with a passion for innovation and collaboration. My journey began at Zensar Technologies, where I excelled in front-end development, specializing in JavaScript, React, and Node.js. During my tenure, I played a pivotal role in the development of a next-gen e-commerce platform, resulting in a remarkable 32% increase in user engagement and heightened customer satisfaction.
-I thrive on challenges and have a proven track record of leading cross-functional teams, fostering a collaborative environment, and adapting swiftly to emerging technologies. My dedication to excellence and my deep expertise in JavaScript, React, and Node.js make me a valuable asset to any team.
-Currently pursuing my MS in Information Systems at Northeastern University, I bring a wealth of experience and a commitment to continuous growth. 
+          As a passionate software engineer with a recent MS in Information Systems from Northeastern University, I am dedicated to leveraging cutting-edge technology to improve lives. My journey at Zensar Technologies as a Sr. Full Stack Developer honed my skills in HTML5, CSS3, JavaScript (ES6+), ReactJS, Node.js, and MongoDB.I have directed complex platform developments, enhanced user satisfaction, and optimized CI/CD pipelines, demonstrating my ability to deliver robust and scalable applications. My commitment to continuous learning and adaptability ensures my solutions remain at the industry's forefront.
+I am now seeking full-time opportunities where I can apply my skills and passion for innovation to make a positive impact.
 <br></br> Let's connect and discuss how my skills can contribute to your organization's success
 </p>
 

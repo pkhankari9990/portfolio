@@ -25,7 +25,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2 Years Working</small>
+              <small>5 Years Working</small>
             </article>
 
          
@@ -38,8 +38,9 @@ const About = () => {
           </div>
 
           <p>
-          As a passionate software engineer with a recent MS in Information Systems from Northeastern University, I am dedicated to leveraging cutting-edge technology to improve lives. My journey at Zensar Technologies as a Sr. Full Stack Developer honed my skills in HTML5, CSS3, JavaScript (ES6+), ReactJS, Node.js, and MongoDB.I have directed complex platform developments, enhanced user satisfaction, and optimized CI/CD pipelines, demonstrating my ability to deliver robust and scalable applications. My commitment to continuous learning and adaptability ensures my solutions remain at the industry's forefront.
-I am now seeking full-time opportunities where I can apply my skills and passion for innovation to make a positive impact.
+          As a Full Stack Developer with over 5 years of experience, I specialize in designing and building scalable, secure applications across healthcare, e-commerce, and banking sectors. I am passionate about leveraging cutting-edge technologies to create seamless user experiences and drive innovation.
+          <br></br> Currently at McKesson, I develop healthcare platforms focused on security, compliance, and performance. My previous roles at Deloitte and Cognizant involved architecting large-scale platforms and optimizing development pipelines.
+          <br></br> Proficient in Java, Spring Boot, Angular, React.js, and Node.js, I enjoy crafting intuitive interfaces and robust backend systems while collaborating with cross-functional teams to deliver impactful solutions. I am always eager to take on new challenges and contribute to transformative projects.
 <br></br> Let's connect and discuss how my skills can contribute to your organization's success
 </p>
 

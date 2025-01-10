@@ -38,10 +38,10 @@ const About = () => {
           </div>
 
           <p>
-          As a Full Stack Developer with over 5 years of experience, I specialize in designing and building scalable, secure applications across healthcare, e-commerce, and banking sectors. I am passionate about leveraging cutting-edge technologies to create seamless user experiences and drive innovation.
-          <br></br> Currently at McKesson, I develop healthcare platforms focused on security, compliance, and performance. My previous roles at Deloitte and Cognizant involved architecting large-scale platforms and optimizing development pipelines.
+          As a Full Stack Developer with 3 years of experience, I have contributed to projects across diverse domains such as fleet management, healthcare, and enterprise solutions. My work on the Avis Fleet Management platform involved designing and implementing scalable web applications using Java, Spring Boot, JSP, React.js, and SQL, delivering robust backend systems and responsive user interfaces to enhance operational efficiency and user experience.
+          <br></br> At Zensar Technologies, I played a key role in developing API-driven solutions and optimizing database operations for various enterprise applications, leveraging ASP.NET, VB.NET, PL/SQL, and Oracle. I collaborated closely with cross-functional teams to ensure seamless integration and alignment with business objectives.
           <br></br> Proficient in Java, Spring Boot, Angular, React.js, and Node.js, I enjoy crafting intuitive interfaces and robust backend systems while collaborating with cross-functional teams to deliver impactful solutions. I am always eager to take on new challenges and contribute to transformative projects.
-<br></br> Let's connect and discuss how my skills can contribute to your organization's success
+<br></br> Let's connect and discuss how my skills can contribute to your organization's success.
 </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

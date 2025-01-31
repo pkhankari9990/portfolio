@@ -25,7 +25,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>5 Years Working</small>
+              <small>3 Years Working</small>
             </article>
 
          
@@ -38,12 +38,12 @@ const About = () => {
           </div>
 
           <p>
-          As a Full Stack Developer with 3 years of experience, I have contributed to projects across diverse domains such as fleet management, healthcare, and enterprise solutions. My work on the Avis Fleet Management platform involved designing and implementing scalable web applications using Java, Spring Boot, JSP, React.js, and SQL, delivering robust backend systems and responsive user interfaces to enhance operational efficiency and user experience.
-          <br></br> At Zensar Technologies, I played a key role in developing API-driven solutions and optimizing database operations for various enterprise applications, leveraging ASP.NET, VB.NET, PL/SQL, and Oracle. I collaborated closely with cross-functional teams to ensure seamless integration and alignment with business objectives.
-          <br></br> Proficient in Java, Spring Boot, Angular, React.js, and Node.js, I enjoy crafting intuitive interfaces and robust backend systems while collaborating with cross-functional teams to deliver impactful solutions. I am always eager to take on new challenges and contribute to transformative projects.
-<br></br> Let's connect and discuss how my skills can contribute to your organization's success.
-</p>
-
+          As a Business Analyst with 3 years of experience, I have contributed to projects across diverse domains such as fleet management, healthcare, and enterprise solutions. My expertise lies in gathering and analyzing business requirements, facilitating cross-functional collaboration, and ensuring seamless integration between business objectives and technical solutions.
+          <br></br>During my time working on the Avis Fleet Management platform, I played a pivotal role in translating business needs into functional requirements, working closely with stakeholders to enhance operational efficiency and user experience. I was responsible for documenting user stories, process flows, and system requirements, ensuring alignment between business expectations and technical implementation.
+          <br></br> At Zensar Technologies, I collaborated with cross-functional teams to develop API-driven solutions and optimize database operations, leveraging my knowledge of SQL, PL/SQL, and data visualization tools. I worked extensively with Jira and Agile methodologies, leading sprint planning, backlog refinement, and defect tracking to streamline project execution.
+          <br></br> Proficient in business process modeling, SQL, data analysis, and Agile methodologies, I excel in bridging the gap between business and technology. I am passionate about leveraging data-driven insights to drive decision-making and optimizing workflows to improve system performance.
+          <br></br>I am eager to take on new challenges and contribute to impactful projects that align business goals with innovative solutions. Let’s connect and discuss how my skills can add value to your organization!
+          </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

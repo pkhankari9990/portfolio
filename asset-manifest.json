@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.195cd7c7.css",
-    "main.js": "/portfolio/static/js/main.770b2a83.js",
+    "main.js": "/portfolio/static/js/main.33895f6f.js",
     "static/media/Boston.jpg": "/portfolio/static/media/Boston.2e0c14e81ded5e2cc6f5.jpg",
     "static/media/me1.jpg": "/portfolio/static/media/me1.4b68d515e17e14423770.jpg",
-    "static/media/Parag_Khankari_Resume_2025.pdf": "/portfolio/static/media/Parag_Khankari_Resume_2025.c3622c382c2a87152baf.pdf",
     "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/PARAG_BA_RESUME_2025.pdf": "/portfolio/static/media/PARAG_BA_RESUME_2025.595e861feca7e6b6a1a1.pdf",
     "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/old.jpg": "/portfolio/static/media/old.c085f4db5b72faa080e4.jpg",
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio/index.html",
     "main.195cd7c7.css.map": "/portfolio/static/css/main.195cd7c7.css.map",
-    "main.770b2a83.js.map": "/portfolio/static/js/main.770b2a83.js.map"
+    "main.33895f6f.js.map": "/portfolio/static/js/main.33895f6f.js.map"
   },
   "entrypoints": [
     "static/css/main.195cd7c7.css",
-    "static/js/main.770b2a83.js"
+    "static/js/main.33895f6f.js"
   ]
 }

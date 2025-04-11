@@ -38,12 +38,16 @@ const About = () => {
           </div>
 
           <p>
-          As a Business Analyst with 3 years of experience, I have contributed to projects across diverse domains such as fleet management, healthcare, and enterprise solutions. My expertise lies in gathering and analyzing business requirements, facilitating cross-functional collaboration, and ensuring seamless integration between business objectives and technical solutions.
-          <br></br>During my time working on the Avis Fleet Management platform, I played a pivotal role in translating business needs into functional requirements, working closely with stakeholders to enhance operational efficiency and user experience. I was responsible for documenting user stories, process flows, and system requirements, ensuring alignment between business expectations and technical implementation.
-          <br></br> At Zensar Technologies, I collaborated with cross-functional teams to develop API-driven solutions and optimize database operations, leveraging my knowledge of SQL, PL/SQL, and data visualization tools. I worked extensively with Jira and Agile methodologies, leading sprint planning, backlog refinement, and defect tracking to streamline project execution.
-          <br></br> Proficient in business process modeling, SQL, data analysis, and Agile methodologies, I excel in bridging the gap between business and technology. I am passionate about leveraging data-driven insights to drive decision-making and optimizing workflows to improve system performance.
-          <br></br>I am eager to take on new challenges and contribute to impactful projects that align business goals with innovative solutions. Let’s connect and discuss how my skills can add value to your organization!
-          </p>
+  Hey! I’m a data-driven problem solver with 4+ years of experience as a Data Analyst and Business Data Analyst, turning complex datasets into clear, actionable insights across the healthcare and financial services industries.<br />
+  I’ve always been fascinated by how data can drive smarter decisions and I genuinely enjoy collaborating with stakeholders to understand what they need and turn that into scalable, data-driven solutions.<br />
+  At <strong>Accenture</strong>, I worked on financial analytics building fraud detection models, ensuring data privacy with GDPR and PCI-DSS, and creating dashboards for real time insights.<br />
+  At <strong>Cardinal Health</strong>, I lead healthcare analytics automating ETL pipelines, building predictive models, and developing interactive dashboards in Power BI and Tableau.<br />
+  I work with tools like <strong>SQL</strong> (PostgreSQL, BigQuery), <strong>Python</strong> (Pandas, Airflow), <strong>Power BI</strong>, <strong>Tableau</strong>, <strong>Spark</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, and more always aiming to deliver clean, scalable solutions.<br />
+  I love collaborating with multiple stakeholders, asking the right questions, and staying curious about what matters most to them because that’s where real impact begins.<br />
+  If you're building something exciting and want someone who bridges data and business effortlessly—I’d love to connect!
+</p>
+
+     
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

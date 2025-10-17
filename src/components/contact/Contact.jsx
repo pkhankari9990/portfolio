@@ -40,14 +40,16 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>khankariparag12@gmail.com</h5>
+            <h5>paragkhankari30@gmail.com</h5>
             <a href="mailto:khankariparag12@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <AiFillInstagram className='contact__option-icon'/>
             <h4>linkedin</h4>
-            <h5>Parag Khankari</h5>
-            <a href="https://www.linkedin.com/in/parag-khankari-5bb458200/" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/parag-khankari" target="_blank" rel="noopener noreferrer">
+  Connect on LinkedIn
+</a>
+
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>

@@ -38,14 +38,23 @@ const About = () => {
           </div>
 
           <p>
-  Hey! I’m a data-driven problem solver with 4+ years of experience as a Data Analyst and Business Data Analyst, turning complex datasets into clear, actionable insights across the healthcare and financial services industries.<br />
-  I’ve always been fascinated by how data can drive smarter decisions and I genuinely enjoy collaborating with stakeholders to understand what they need and turn that into scalable, data-driven solutions.<br />
-  At <strong>EY</strong>, I worked on financial analytics building fraud detection models, ensuring data privacy with GDPR and PCI-DSS, and creating dashboards for real time insights.<br />
-  At <strong>Cardinal Health</strong>, I lead healthcare analytics automating ETL pipelines, building predictive models, and developing interactive dashboards in Power BI and Tableau.<br />
-  I work with tools like <strong>SQL</strong> (PostgreSQL, BigQuery), <strong>Python</strong> (Pandas, Airflow), <strong>Power BI</strong>, <strong>Tableau</strong>, <strong>Spark</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, and more always aiming to deliver clean, scalable solutions.<br />
-  I love collaborating with multiple stakeholders, asking the right questions, and staying curious about what matters most to them because that’s where real impact begins.<br />
-  If you're building something exciting and want someone who bridges data and business effortlessly—I’d love to connect!
+  Hey! I’m <strong>Parag Khankari</strong> a data-driven problem solver with 4+ years of experience blending <strong>data analytics</strong> and <strong>cybersecurity</strong> to turn complex information into clear, actionable insights.<br /><br />
+
+  I’ve always been fascinated by how data can tell a story — one that drives smarter decisions, improves security, and helps organizations stay one step ahead. I love working with teams, asking the right questions, and building solutions that make an impact.<br /><br />
+
+  At <strong>Com-Sec LLC</strong>, I work as a <strong>Security & Data Analyst</strong> leading compliance projects for <strong>SOC 2, HIPAA, PCI-DSS, and ISO 27001</strong>. I build <strong>Power BI</strong> and <strong>Tableau</strong> dashboards to track KPIs, remediation progress, and audit readiness. Using <strong>SQL</strong> and <strong>Python</strong>, I automate evidence collection in <strong>Drata</strong> and <strong>Vanta</strong>, perform vulnerability scans with <strong>Qualys</strong>, and monitor cloud activity using <strong>AWS GuardDuty, CloudTrail, and Config</strong>.<br /><br />
+
+  I also work hands-on with <strong>SIEM tools</strong> like <strong>Splunk</strong>, <strong>QRadar</strong>, and <strong>Microsoft Defender</strong> to detect anomalies and improve incident response. What I enjoy most is combining data analytics with security—making every improvement measurable, visual, and tied to business outcomes.<br /><br />
+
+  Earlier, at <strong>Zensar Technologies</strong>, I focused on building dashboards in <strong>Power BI</strong> and <strong>Tableau</strong>, automating reports with <strong>Python</strong>, and optimizing <strong>SQL Server</strong> and <strong>Oracle</strong> databases. That experience gave me a strong foundation in using data to drive strategic decisions.<br /><br />
+
+  My toolkit includes <strong>SQL</strong> (PostgreSQL, SQL Server, BigQuery), <strong>Python</strong> (Pandas, Airflow), <strong>Power BI</strong>, <strong>Tableau</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, and security platforms like <strong>Drata</strong>, <strong>Vanta</strong>, and <strong>Splunk</strong>.<br /><br />
+
+  I’m always curious, creative, and driven by impact — whether it’s turning raw data into strategy or securing systems behind the scenes.  
+  If you’re building something exciting and need someone who bridges <strong>data analytics</strong> and <strong>security</strong> effortlessly — let’s talk!
 </p>
+
+
 
      
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
